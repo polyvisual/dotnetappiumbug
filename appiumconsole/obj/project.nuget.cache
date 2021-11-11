@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqlb5GSq/Cgl1e4P+XkuvJLHC2ikFow4vXehxvg2o4iqdvsPAfF+HNXgUjI0dfgluNIpAVJ9FUA5awcdqJ31qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MattHorrocks\\source\\repos\\appiumconsole\\appiumconsole\\appiumconsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MattHorrocks\\.nuget\\packages\\appium.webdriver\\5.0.0-beta01\\appium.webdriver.5.0.0-beta01.nupkg.sha512",
+    "C:\\Users\\MattHorrocks\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\MattHorrocks\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\MattHorrocks\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\MattHorrocks\\.nuget\\packages\\selenium.support\\4.0.0\\selenium.support.4.0.0.nupkg.sha512",
+    "C:\\Users\\MattHorrocks\\.nuget\\packages\\selenium.webdriver\\4.0.0\\selenium.webdriver.4.0.0.nupkg.sha512",
+    "C:\\Users\\MattHorrocks\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
